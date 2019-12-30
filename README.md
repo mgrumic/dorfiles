@@ -1,1 +1,1 @@
-# dorfiles
+# dotfiles
